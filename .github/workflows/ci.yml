@@ -14,5 +14,5 @@ jobs:
           playwright install --with-deps
       - name: Jalanin test
         env:
-          PYTHONPATH:.
+          PYTHONPATH: .
         run: pytest -v
