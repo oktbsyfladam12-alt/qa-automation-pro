@@ -1,4 +1,4 @@
-# QA Automation Pro - SauceDemo
+# QA Automation Pro
 
 [![CI](https://github.com/oktbsyfladam12-alt/qa-automation-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/oktbsyfladam12-alt/qa-automation-pro/actions)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
